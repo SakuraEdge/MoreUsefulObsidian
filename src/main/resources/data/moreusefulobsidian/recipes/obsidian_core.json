@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "moreusefulobsidian:double_obsidian_block"
+    },
+    "C": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "O": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "O#O",
+    "#C#",
+    "O#O"
+  ],
+  "result": {
+    "item": "moreusefulobsidian:core"
+  }
+}

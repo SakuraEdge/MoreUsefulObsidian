@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "moreusefulobsidian:item/obsidian_pickaxe"
+  }
+}
